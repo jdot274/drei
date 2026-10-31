@@ -140,7 +140,7 @@
     "three": "^0.151.0",
     "ts-node": "^10.9.1",
     "typescript": "^4.7.4",
-    "vite": "^4.3.6",
+    "vite": "^6.4.5",
     "vite-plugin-glslify": "^2.0.1",
     "yarn": "^1.22.17"
   },
